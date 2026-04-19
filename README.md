@@ -120,5 +120,3 @@ These insights can help in improving pricing strategy, focusing on high-profit p
 
 ---
 
-## 👨‍💻 Author
-Superstore Data Analysis Project using Python & Pandas
