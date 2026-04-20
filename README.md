@@ -112,11 +112,5 @@ These insights can help in improving pricing strategy, focusing on high-profit p
 
 ---
 
-## 🚀 Future Improvements
-- Build interactive dashboards (Tableau / Power BI)
-- Perform customer segmentation (clustering)
-- Analyze discount impact on profit
-- Predict future sales using machine learning
 
----
 
